@@ -1,0 +1,3 @@
+# Obsidian Sync
+
+🔥study, info, insight, etc....
