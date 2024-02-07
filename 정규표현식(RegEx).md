@@ -40,3 +40,7 @@ ben.kim@nurilab.com.
 .support@nurilab.com
 a@rulke.co.kr
 a.@rulakd.co.kr
+
+0x0D, 0x0A  : enter 키
+
+[\\d\\D]+  >> 모든 문자 
