@@ -30,7 +30,8 @@ HOG
 --------------
  
  OCR
-tesseract 
+
+
 https://github.com/UB-Mannheim/tesseract/wiki
 
 환경변수 추가 
