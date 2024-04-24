@@ -25,4 +25,18 @@ AI, 반도체, CHIP4 반도체 동맹
 중국 cyber security 법 2017 
 미국 국가사이버보안 전략
 
-the next global superpower isn't who you think
+---
+
+제로트러스트
+
+내/외부 신뢰성에 경계. < 내부에 침투하자.
+
+의심하고 검증하라
+
+적극적인 신뢰도 평가
+
+장기간이 걸리는 작업
+
+전사적으로 도입되어야 할 보안 철학
+
+lmstudio
