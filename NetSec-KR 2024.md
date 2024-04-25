@@ -77,3 +77,18 @@ PIM 반도체 기술
 
 엄청난 전력소모를 어떻게 처리할 것인가,
 
+---
+
+CVD(Coordinated Vulnerability Disclosure)
+보안취약점 (전주기) 협력대응제도
+
+C = 3C
+소통, 협력, 조정
+D 
+신고, 제공, 공개
+
+essentials
+	법적 보호(safe harbor) - whitehacker
+	보안취약점 처리 방침(VDP) 수립.공개
+	CVD 제도 운영기관(coordinator) 지정
+
